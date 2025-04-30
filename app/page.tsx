@@ -142,7 +142,7 @@ const portfolioData = {
       title: "Full Stack Development Series",
       publication: "Medium",
       date: "2024",
-      url: "#",
+      url: "https://medium.com/@harshitdharmveer.work",
     },
   ],
   research: {
