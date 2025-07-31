@@ -51,11 +51,11 @@ const portfolioData = {
       codeUrl: "https://github.com/harrsh-it",
     },
     {
-      title: "BACon –A Space Events platform",
-      description: "Developed a space-related event management platform with an informational landing page and a ticket booking system. Integrated Clerk for authentication, Stripe for secure payment processing, and MongoDB for efficient data management",
-      technologies: ["Next.js", "Tailwind CSS", "NextAuth"],
-      image: "bacon.png?height=300&width=500",
-      demoUrl: "https://ba-con.vercel.app/",
+      title: "Gurutatva",
+      description: "Developed a space-related event platform with an informational landing page.",
+      technologies: ["Next.js", "Tailwind CSS", "React.js", "Node.js", ],
+      image: "gurutatva.png?height=300&width=500",
+      demoUrl: "https://www.gurutatva.in/",
       codeUrl: "https://github.com/harrsh-it",
     },
     {
